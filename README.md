@@ -12,4 +12,4 @@ This shader comes with a few parameters that allows you to vary how it looks:
 
 The C# script is only used to rotate the orbs, and move them up & down.
 
-> Note: The original shader for this idea was made [here](https://www.udemy.com/course/learn-unity-shaders-from-scratch/)
+> Note: The shader is based on Nicholas Lever's course on [Udemy](https://www.udemy.com/course/learn-unity-shaders-from-scratch/)
