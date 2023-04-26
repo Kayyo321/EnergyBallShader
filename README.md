@@ -1,8 +1,12 @@
-# EnergyBallShader
+# Energy Ball Shader
 Shader demo for energy balls (unity package)
+
+![InGameImg](ReadMeImgs/InGame.png)
 
 This demo uses C# along with Unity's shader scripting to produce an energy ball shader.
 This shader comes with a few parameters that allows you to vary how it looks:
+
+![PropertiesImg](ReadMeImgs/Properties.png)
 
 * Scale: Roughness of the surface.
 * Speed: Speed at which the surface pulses.
